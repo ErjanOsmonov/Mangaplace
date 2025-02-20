@@ -9,6 +9,8 @@ import ProductInformtion from "../components/ProductInformtion";
 import ProductComments from "../components/ProductComments";
 import RateModal from "../components/RateModal";
 
+// this is an in-detail info about a manga
+
 const DetailProduct = () => {
   const params = useParams();
   const {
