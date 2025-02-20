@@ -1,0 +1,207 @@
+{
+  "products": [
+    {
+      "name": "Tokyo Revengers",
+      "description": "Жестокая история о 26-летнем парне, что потерял свою единственную девушку в разборке уличных банд и скатился к серой убогой жизни нищего неудачника на подработке без каких-либо планов и перспектив. Но как-то вечером, возвращаясь домой, бедолага угодил под электричку и откатился во времени на 12 лет. А вернувшись в прошлое, он бросает все силы, чтобы войти в среду уличных банд и не дать единственной любви погибнуть.",
+      "type": "manhwa",
+      "vipPrice": "20",
+      "image": "https://cover.imglib.info/uploads/cover/toukyou-revengers/cover/86472b03-f1d3-41cb-8da5-4065ee54f974.jpg",
+      "year": "2017",
+      "genres": [
+        "Shonen",
+        "Action",
+        "School"
+      ],
+      "rate": [
+        {
+          "rateAvg": 0.8,
+          "rateAmount": 36,
+          "rateSum": 28
+        }
+      ],
+      "comments": [
+        {
+          "userName": "TheCupOfTea",
+          "comment": "Heello world",
+          "userImg": "https://lh3.googleusercontent.com/a-/AOh14Ggf7puoi1Xa4rOOCSQikX17aUMVFWG4Ls14-M4b=s96-c",
+          "userUid": "T48Ncy4IMkRRXYDBf1PP6VBdnyH2"
+        },
+        {
+          "userName": "TheCupOfTea",
+          "comment": "JJlfjads;lfkja",
+          "userImg": "https://lh3.googleusercontent.com/a-/AOh14Ggf7puoi1Xa4rOOCSQikX17aUMVFWG4Ls14-M4b=s96-c",
+          "userUid": "T48Ncy4IMkRRXYDBf1PP6VBdnyH2"
+        },
+        {
+          "userName": "TheCupOfTea",
+          "comment": ";mmkl;",
+          "userImg": "https://lh3.googleusercontent.com/a-/AOh14Ggf7puoi1Xa4rOOCSQikX17aUMVFWG4Ls14-M4b=s96-c",
+          "userUid": "T48Ncy4IMkRRXYDBf1PP6VBdnyH2"
+        },
+        {
+          "userName": "TheCupOfTea",
+          "comment": "SDflkjasdflkj",
+          "userImg": "https://lh3.googleusercontent.com/a-/AOh14Ggf7puoi1Xa4rOOCSQikX17aUMVFWG4Ls14-M4b=s96-c",
+          "userUid": "T48Ncy4IMkRRXYDBf1PP6VBdnyH2"
+        }
+      ],
+      "id": 3,
+      "price": 0
+    },
+    {
+      "name": "Demon Slayer",
+      "description": "Танджиро - старший сын в семье, потерявшей кормильца. Однажды, он уходит в другой город, чтобы продать древесный уголь, но в конце концов остаётся на ночь в чужом доме, вместо того, чтобы идти домой. А всё из-за слухов о демоне, который разгуливает в горах под покровом ночи. Утром парень вернётся домой живой и невредимый... Но его ждут ужасные известия...",
+      "type": "manga",
+      "vipPrice": "10",
+      "image": "https://cover.imglib.info/uploads/cover/kimetsu-no-yaiba/cover/64b6c590-53b6-453e-9612-f2b48085e296.jpg",
+      "year": "2016",
+      "genres": [
+        "Fantasy",
+        "Drama",
+        "adventure"
+      ],
+      "rate": [
+        {
+          "rateAvg": 3,
+          "rateAmount": 6,
+          "rateSum": 18
+        }
+      ],
+      "comments": [
+        {
+          "userName": "TheCupOfTea",
+          "comment": "SDKJflsjdflj",
+          "userImg": "https://lh3.googleusercontent.com/a-/AOh14Ggf7puoi1Xa4rOOCSQikX17aUMVFWG4Ls14-M4b=s96-c",
+          "userUid": "T48Ncy4IMkRRXYDBf1PP6VBdnyH2"
+        },
+        {
+          "userName": "TheCupOfTea",
+          "comment": "Some type of comment",
+          "userImg": "https://lh3.googleusercontent.com/a-/AOh14Ggf7puoi1Xa4rOOCSQikX17aUMVFWG4Ls14-M4b=s96-c",
+          "userUid": "T48Ncy4IMkRRXYDBf1PP6VBdnyH2"
+        },
+        {
+          "userName": "TheCupOfTea",
+          "comment": "Thisthis",
+          "userImg": "https://lh3.googleusercontent.com/a-/AOh14Ggf7puoi1Xa4rOOCSQikX17aUMVFWG4Ls14-M4b=s96-c",
+          "userUid": "T48Ncy4IMkRRXYDBf1PP6VBdnyH2"
+        }
+      ],
+      "id": 4,
+      "price": 0
+    },
+    {
+      "name": "Promised Neverland",
+      "description": "мма и её друзья вели вполне счастливую сиротскую жизнь в приюте. Да, там жёсткие правила, но зато смотритель добрый. Вот только почему детям запрещено приближаться к воротам и забору?.. Иногда не известно, стоит ли узнавать правду, которая полностью переворачивает всю твою жизнь.",
+      "type": "manga",
+      "vipPrice": "15",
+      "image": "https://cover.imglib.info/uploads/cover/yakusoku-no-neverland/cover/V6PnrWysPZQ9_250x350.jpg",
+      "year": "2016",
+      "genres": [
+        "action",
+        "Detective",
+        "Survival"
+      ],
+      "rate": [
+        {
+          "rateAvg": 0,
+          "rateAmount": 0,
+          "rateSum": 0,
+          "uids": []
+        }
+      ],
+      "comments": [
+        {
+          "userName": "TheCupOfTea",
+          "comment": "Something",
+          "userImg": "https://lh3.googleusercontent.com/a-/AOh14Ggf7puoi1Xa4rOOCSQikX17aUMVFWG4Ls14-M4b=s96-c",
+          "userUid": "T48Ncy4IMkRRXYDBf1PP6VBdnyH2"
+        },
+        {
+          "userName": "Айдар Базарбаев",
+          "comment": "ВАОЛДодва",
+          "userImg": "https://lh3.googleusercontent.com/a-/AOh14GjuDaFX4OKq5LE7eRfvpQtm-s-lTlt_aI0tyuoS=s96-c",
+          "userUid": "3f6t8CIszISCnp69FagKw7spT0x2"
+        },
+        {
+          "userName": "TheCupOfTea",
+          "comment": "adsjfkajsd;flk",
+          "userImg": "https://lh3.googleusercontent.com/a-/AOh14Ggf7puoi1Xa4rOOCSQikX17aUMVFWG4Ls14-M4b=s96-c",
+          "userUid": "T48Ncy4IMkRRXYDBf1PP6VBdnyH2"
+        },
+        {
+          "userName": "TheCupOfTea",
+          "comment": "ajsd;lkasjd",
+          "userImg": "https://lh3.googleusercontent.com/a-/AOh14Ggf7puoi1Xa4rOOCSQikX17aUMVFWG4Ls14-M4b=s96-c",
+          "userUid": "T48Ncy4IMkRRXYDBf1PP6VBdnyH2"
+        }
+      ],
+      "id": 6
+    },
+    {
+      "name": "Jujutsu Kaisen",
+      "description": "Талантливого Юдзи школьная жизнь мало привлекает. Но всё изменилось, когда он становится частью клуба оккультных исследований и находит один из пальцев великого Проклятого духа по имени «Сукуна».",
+      "type": "manga",
+      "vipPrice": "30",
+      "image": "https://cover.imglib.info/uploads/cover/jujutsu-kaisen/cover/1830cd81-acba-43df-8583-350e46ee9ceb.jpg",
+      "year": "2018",
+      "genres": [],
+      "rate": [
+        {
+          "rateAvg": 2.5,
+          "rateAmount": 52,
+          "rateSum": 126,
+          "uids": []
+        }
+      ],
+      "comments": [
+        {
+          "userName": "Эржан Осмонов 8г",
+          "comment": "This",
+          "userImg": "https://lh3.googleusercontent.com/a/AATXAJyzSRhQ8JCcR3wFlcysJRDwL1KEQxMx3iwpVP-P=s96-c",
+          "userUid": "uzVwe5kIcbdpl5NKmHluRancMQ63"
+        }
+      ],
+      "id": 8
+    },
+    {
+      "name": "OnePunchMan",
+      "description": "Манга повествует о молодом человеке по имени Сайтама. Он — герой, обычный герой. Основная его проблема в том, что он вышибает дух из злодеев одним ударом. А это очень скучно…",
+      "type": "manga",
+      "vipPrice": "35",
+      "image": "https://cover.imglib.info/uploads/cover/onepunchman/cover/0b16d00c-665f-4c2f-9824-51d1d3f4eda7.jpg",
+      "year": "2099",
+      "genres": [],
+      "rate": [
+        {
+          "rateAvg": 0,
+          "rateAmount": 0,
+          "rateSum": 0,
+          "uids": []
+        }
+      ],
+      "comments": [],
+      "id": 9,
+      "price": 0
+    },
+    {
+      "name": "One Piece",
+      "description": "Последние слова, произнесённые Королем Пиратов Гол Д. Роджером перед казнью, вдохновили многих выйти в море: «Мои сокровища? Я завещаю их тому, кто сможет их найти. Ищите! Я все оставил в одном месте!». Лишённые сна и покоя люди ринулись на Гранд Лайн, самое опасное место в мире. Так началась великая эра пиратов... Но с каждым годом романтиков становилось все меньше, их постепенно вытесняли прагматичные пираты-разбойники, которым награбленное добро было куда ближе, чем какие-то «никчёмные мечты». Но вот, одним прекрасным днем, семнадцатилетний Монки Д. Луффи исполнил заветную мечту детства — отправился в море. Его цель — ни много, ни мало стать новым Королём Пиратов. За достаточно короткий срок юному капитану удаётся собрать команду, состоящую из не менее амбициозных искателей приключений. И пусть ими движут совершенно разные устремления, главное, этим ребятам важны не столько деньги и слава, сколько куда более ценное – принципы и верность друзьям. И ещё – служение Мечте. Что же, пока по Гранд Лайн плавают такие люди, Великая Эра Пиратов всегда будет с нами!",
+      "type": "manga",
+      "vipPrice": "10",
+      "image": "https://cover.imglib.info/uploads/cover/one-piece/cover/384db1a6-1906-471d-9198-23edc0eef7a1.jpg",
+      "year": "1997",
+      "genres": [],
+      "rate": [
+        {
+          "rateAvg": 2,
+          "rateAmount": 27,
+          "rateSum": 54,
+          "uids": []
+        }
+      ],
+      "comments": [],
+      "id": 10
+    }
+  ]
+}
