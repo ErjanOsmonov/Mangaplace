@@ -8,7 +8,7 @@ import ClientProvider from "./contexts/ClientProvider";
 import AddPage from "./pages/AddPage";
 import AdminPage from "./pages/AdminPage";
 import DetailProduct from "./pages/DetailProduct";
-import HomePage from "./pages/HomePage";
+// import HomePage from "./pages/HomePage";
 import SearchPage from "./pages/SearchPage";
 import FavPage from "./pages/FavPage";
 
@@ -20,9 +20,8 @@ const MyRoutes = () => {
           <BrowserRouter>
             <MyNavbar />
             <Routes>
-              <Route path="/" element={<HomePage />} />
               <Route path="/add" element={<AddPage />} />
-              <Route path="/search" element={<SearchPage />} />
+              <Route path="/" element={<SearchPage />} />
               <Route path="/:type/:id" element={<DetailProduct />} />
               <Route path="/admin" element={<AdminPage />} />
               <Route path="/fav" element={<FavPage />} />

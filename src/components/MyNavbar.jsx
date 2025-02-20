@@ -17,7 +17,6 @@ import Logoutt from "../images/logout.png";
 import Login from "../images/user.png";
 
 const pages = [
-  { name: "Search", path: "/search" },
   { name: "Add", path: "/add" },
 ];
 const settings = [{ name: "Profile", path: "/fav" }];
