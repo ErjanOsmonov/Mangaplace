@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mangaplace/static/css/main.a0d8bcec.css",
+    "main.js": "/mangaplace/static/js/main.a9f17ea1.js",
+    "index.html": "/mangaplace/index.html",
+    "main.a0d8bcec.css.map": "/mangaplace/static/css/main.a0d8bcec.css.map",
+    "main.a9f17ea1.js.map": "/mangaplace/static/js/main.a9f17ea1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a0d8bcec.css",
+    "static/js/main.a9f17ea1.js"
+  ]
+}
