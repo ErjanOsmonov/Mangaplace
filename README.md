@@ -1,5 +1,7 @@
 Student: Osmonov Erjan
+
 Group: COMCEH24
+
 Student ID: 240141017
 
 This is a project about a mangaplace, where you can choose and read, rate, comment, add, delete, edit manga
